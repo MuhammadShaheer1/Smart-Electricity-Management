@@ -1,0 +1,39 @@
+********************************************************************************
+	Your Area:	 Saddar
+	Your Meter Number: 	9
+	Current Units:	 800.000000
+	Units Consumed during peak hours:	200.000000
+	Current Month:	 December 2019
+	Your Bill:	Rupees 20760.000000
+	Tax:	Rupees 3736.799805
+	Total Bill:	Rupees 24496
+****************************************************************************************************************************************************************
+	Your Area:	 Dhamial_Camp
+	Your Meter Number: 	3
+	Current Units:	 90.000000
+	Units Consumed during peak hours:	10.000000
+	Current Month:	 December 2019
+	Your Bill:	Rupees 1058.300049
+	Tax:	Rupees 600.000000
+	Total Bill:	Rupees 1658
+****************************************************************************************************************************************************************
+	Your Area:	 Murree_Road
+	Your Meter Number: 	4
+	Current Units:	 400.000000
+	Units Consumed during peak hours:	50.000000
+	Current Month:	 December 2019
+	Your Bill:	Rupees 7140.000000
+	Tax:	Rupees 650.000000
+	Total Bill:	Rupees 7790
+********************************************************************************
+
+********************************************************************************
+	Your Area:	 Raja_Bazar
+	Your Meter Number: 	3
+	Current Units:	 150.000000
+	Units Consumed during peak hours:	150.000000
+	Current Month:	 December 2019
+	Your Bill:	Rupees 6300.000000
+	Tax:	Rupees 1300.000000
+	Total Bill:	Rupees 7600
+********************************************************************************
